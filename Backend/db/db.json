@@ -1,0 +1,11 @@
+{
+  "livros": [],
+  "autores": [],
+  "categorias": [],
+  "editoras": [
+    {
+      "editora": "wadawd",
+      "id": 1
+    }
+  ]
+}
